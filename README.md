@@ -17,7 +17,8 @@ Start Env:
 
       ./env_name/activate
 =======================================================================
-clone Project:
+
+Clone Project:
 
       git clone https://github.com/Rabindra-1/Title_generation_No_API.git
 
