@@ -7,7 +7,7 @@ def preprocess_input(topic):
     return [token.lemma_ for token in doc if not token.is_stop and token.is_alpha]
 
 def generate_blog(topic):
-    template_path = "/data/title_generation.txt"
+    template_path = /data/title_generation.txt
     
     try:
         with open(template_path, 'r') as f:
